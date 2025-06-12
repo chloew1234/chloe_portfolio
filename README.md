@@ -12,7 +12,7 @@ Welcome! I’m Chloe, a Data Science & Economics double major at NYU. Below are 
 - **Tools:** Python (pandas, NumPy, statsmodels)
 - **Methods:** Bootstrap 95% & 99% CI; Spearman correlation; log-linear regression  
 - **Highlights:** Found “Memento (2000)” profs significantly above average at 99% CI  
-- **Repo & Write-up:** [github.com/chloewang/movie_ratings_analysis](#)
+- **Repo & Write-up:** https://github.com/chloew1234/movie_ratings_analysis.git
 
 ---
 
